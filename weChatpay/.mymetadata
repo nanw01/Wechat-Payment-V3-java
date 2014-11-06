@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="weChatpay"
+  id="myeclipse.1413272298359"
+  context-root="/weChatpay"
+  j2ee-spec="5.0"
+  archive="weChatpay.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
